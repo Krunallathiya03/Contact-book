@@ -1,6 +1,5 @@
 const contactModel = require('../models/contactModel');
-const PDFDocument = require('pdfkit')
-const fs = require('fs');
+const PDFDocument = require('pdfkit');
 
 
 
